@@ -1,0 +1,27 @@
+#logk{
+    display: inline-block;
+    width: 22%;
+    float: left;
+}
+#t{
+   display: inline-block;
+    width: 40%;
+    text-align:justify;
+    color: beige;
+}
+#tcb{
+    text-align: center;
+    color: brown;
+}
+#tcb1{
+    text-align: center;
+    color: burlywood;
+}
+#logl{
+    display: inline-block;
+    width: 17%;
+    float:right;
+}
+.txt1{
+    text-align:justify;
+}

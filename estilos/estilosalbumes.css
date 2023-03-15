@@ -1,0 +1,77 @@
+#t2{
+    clear: both;
+    text-align: center;
+    width: 100%;
+    color: brown;
+}
+#ti2{
+    text-align: left;
+    width:90%;
+    color: burlywood;
+    margin-left: 25%;
+}
+#audio{
+    display: inline-block;
+    text-align: left;
+    width:40%;
+}
+#cajaaudio{
+    width: 30%;
+    height: 20%;
+}
+#columna1{
+    padding: 15px;
+    margin: 5px;
+}
+#inf{
+    text-align: right;
+    width: 52%;
+    color: burlywood;
+}
+#ltr{
+    display: inline-block;
+    width: 65%;
+    color: beige;
+    float: right;
+}
+#cover{
+    width: 90%;
+    height: 90%;
+}
+#columna2{
+    padding: 15px;
+    margin: 5px;
+}
+.menu{    
+    display:inline-block;
+    float: right;
+    width: 85%;
+    background-color:beige;
+    font-size: 18px;
+    text-align: left;
+    border:groove;
+    border-color:burlywood;
+}
+.menu2{
+    display: inline-block;
+    float: right;
+    width: 50%;
+    background-color:beige;
+    font-size: 20px;
+    border:groove;
+    border-color: burlywood;
+}
+.contenedor{
+    display: flex;
+}
+a:link {
+  color: brown;
+}
+
+a:visited {
+  color: #590F40;
+}
+a:active {
+  background: beige;
+  color: #D6CFBC;
+}

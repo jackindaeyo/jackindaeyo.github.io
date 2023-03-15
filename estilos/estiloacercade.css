@@ -1,0 +1,26 @@
+#titulos{
+    display: center;
+    color:brown;
+}
+#tema4{
+    text-align: center;
+    text-decoration:overline;
+    text-decoration-color:brown;
+    color:burlywood;
+}
+#cont{
+    text-align:center;
+    color: beige;
+}
+#acercade{
+    color:darkgoldenrod;
+    margin-left: 30%;
+}
+#lc{
+    color: beige;
+    margin-left: 30%; 
+}
+#phone{
+    float: right;
+    width: 30%;
+}

@@ -1,0 +1,38 @@
+#img1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#titulo1{
+    display: inline-block;
+    text-align: center;
+    width: 75%;
+    color: brown;
+}
+#titulo2{
+    display: inline-block;
+    text-align: center;
+    width: 70%;
+    color: burlywood;
+}
+.texto{
+    clear: both;
+    text-align:justify;
+    color: burlywood;
+    font-size: 150%;
+}
+#au1{
+   font-size: 150%;
+    color: black;
+    text-align: center;
+}
+a:link {
+  color:white;
+}
+a:visited {
+  color: #F1EDE2;
+}
+a:active {
+  background: beige;
+  color: black;
+}

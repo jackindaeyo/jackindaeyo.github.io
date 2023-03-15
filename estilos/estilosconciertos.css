@@ -1,0 +1,41 @@
+#tcb{
+    color: brown;
+    text-align: center;
+}
+#tcb1{
+    color: burlywood;
+    text-align: center;
+}
+#licon{
+    color: beige;
+    float: right;
+}
+#logk{
+    float: left;
+}
+#cajaconc{
+    float: left;
+    width: 550px;
+    height:450px; 
+    margin:15px;
+}
+a:link {
+  color: #590F40;
+}
+
+a:visited {
+  color: brown;
+}
+a:active {
+  background: beige;
+  color: #D6CFBC;
+}
+.menu{
+    display:inline-block;
+    width: 45%;
+    background-color:beige;
+    font-size:19px;
+    text-align: center;
+    border:groove;
+    margin-left: 100px;
+}

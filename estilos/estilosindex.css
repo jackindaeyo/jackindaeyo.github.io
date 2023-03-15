@@ -1,0 +1,56 @@
+#logo1{
+    display: inline-block;
+    width: 33%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    color:burlywood;
+}
+#logo2{
+    display: inline-block;
+    width: 25%;
+    float: right;
+}
+#barra{
+    clear:both;
+    text-align:center;
+    
+}
+.menu{
+    display:inline-block;
+    width: 11%;
+    background-color:beige;
+    font-size: 20px;
+    background-color:#D6CEAE;
+    border:groove;
+    border-color:#D6CEAE;
+}
+#caja{
+   width: 99%;
+    padding: 8px;
+    height: 800px;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: groove;
+    color: antiquewhite;
+}
+#colf{
+    background-color:black;
+    width: 100%;
+}
+a:link {
+  color: #2D5337;
+}
+
+a:visited {
+  color: #2D5337;
+}
+a:active {
+  background: #D6CEAE;
+  color: #B3644B;
+}
